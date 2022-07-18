@@ -1,0 +1,12 @@
+.canvas{
+    width: 50%;
+    height: 50%;
+    background-color: #000;
+    position: absolute;
+   font-size: 12px;
+    text-align: center;
+    z-index: -1;
+    color: #fff;
+    margin : auto;
+    padding: 10px;
+}
