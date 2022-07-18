@@ -10,3 +10,8 @@
     margin : auto;
     padding: 10px;
 }
+#message{
+    color: rgb(79, 158, 4);
+    font-size: 50px;
+    font-weight: bold;
+}
